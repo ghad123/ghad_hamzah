@@ -13,7 +13,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-<img src="https://github.com/ghad123/ghad_hamzah/blob/main/afi.jpg" alt="Ghad" style="width:400px;height:400px;">
+<img src="https://github.com/ghad123/ghad_hamzah/blob/main/afi.jpg" alt="Ghad" style="width:200px;height:200px;">
 
 <!-- Add your details -->
 
